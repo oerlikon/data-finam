@@ -1,0 +1,33 @@
+symbols:
+  - market: MOEX
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: AFLT
+      - name: ALRS
+      - name: CHMF
+      - name: FLOT
+      - name: GAZP
+      - name: GMKN
+      - name: LKOH
+      - name: MGNT
+      - name: MOEX
+      - name: MSNG
+      - name: MTSS
+      - name: NVTK
+      - name: PHOR
+      - name: PLZL
+      - name: POLY
+      - name: ROSN
+      - name: RUAL
+      - name: SBER
+      - name: SNGS
+      - name: SNGSP
+      - name: TATN
+      - name: VKCO
+      - name: VTBR
+      - name: YNDX
+actions:
+  - using: finam
+    actions:
+      - name: import
