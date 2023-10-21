@@ -24,6 +24,7 @@ symbols:
       - name: SNGS
       - name: SNGSP
       - name: TATN
+      - name: USDRUB
       - name: VKCO
       - name: VTBR
       - name: YNDX
