@@ -28,6 +28,24 @@ symbols:
       - name: VKCO
       - name: VTBR
       - name: YNDX
+  - market: MOEX
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: IMOEX
+      - name: RTSI
+      - name: RVI
+  - market: Finam
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: AG
+      - name: AU
+      - name: BR
+      - name: CU
+      - name: DX
+      - name: NG
+      - name: SP
 actions:
   - using: finam
     actions:
