@@ -1,0 +1,19 @@
+symbols:
+  - market: Finam
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: DX
+      - name: NK
+      - name: SP
+      - name: UK
+  - market: Finam
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: BTCUSDT
+      - name: ETHUSDT
+actions:
+  - using: finam
+    actions:
+      - name: import
