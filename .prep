@@ -5,7 +5,6 @@ symbols:
     symbols:
       - name: DX
       - name: NK
-      - name: SP
       - name: UK
   - market: Finam
     time: Europe/Moscow
