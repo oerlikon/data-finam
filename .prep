@@ -4,7 +4,6 @@ symbols:
     start: 2018
     symbols:
       - name: DX
-      - name: NG
       - name: NK
       - name: UK
   - market: Finam
@@ -13,6 +12,12 @@ symbols:
     symbols:
       - name: BTCUSDT
       - name: ETHUSDT
+  - market: Finam
+    time: Europe/Moscow
+    start: 2018
+    symbols:
+      - name: CY
+      - name: NG
 actions:
   - using: finam
     actions:
