@@ -1,0 +1,17 @@
+symbols:
+  - market: Finam
+    time: Europe/Moscow
+    start: 2024
+    symbols:
+      - name: AG
+      - name: AU
+      - name: CL
+      - name: DX
+      - name: NG
+      - name: PD
+      - name: SP
+      - name: WH
+actions:
+  - using: finam
+    actions:
+      - name: import
